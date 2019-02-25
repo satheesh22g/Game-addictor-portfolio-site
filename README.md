@@ -14,4 +14,4 @@ Build a portfolio site using HTML, CSS & BOOTSTRAP
 - Clone or download ZIP
 - Open index.html
 
-You can view demo [here](https://github.com/satheesh22g/GAMING-portfolio-site)
+You can view demo [here](https://satheesh22g.github.io/GAMING-portfolio-site/)
